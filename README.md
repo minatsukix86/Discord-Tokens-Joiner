@@ -98,7 +98,7 @@ Feel free to fork this repository and submit pull requests for improvements.
 
 ## Author
 
-Developed by **Minatsuki**. For questions or support, contact me on discord => ***__minatsukix86__**.
+Developed by **Minatsuki**. For questions or support, contact me on discord => **__minatsukix86__**.
 
 ---
 
